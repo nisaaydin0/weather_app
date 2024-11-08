@@ -31,8 +31,7 @@ How to Use
     Weather icon representing the current condition
 --If the city is not found, an error message will be displayed.
 
-
-![ScreenRecording2024-11-07at7 47 37PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/665a9c15-6e22-45db-8541-3660cc465324)
+https://github.com/user-attachments/assets/ed80e4e7-f6fb-4ef0-aa51-ee214063bf71
 
 Technologies Used
 
