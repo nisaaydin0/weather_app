@@ -21,6 +21,8 @@ Interactive Search: Allows users to search for any city's weather by entering th
 How to Use
 
 
+
+
 1-Enter the name of the city in the search box.
 2-Click the search button.
 3-View the weather data including:
@@ -31,7 +33,9 @@ How to Use
     Weather icon representing the current condition
 --If the city is not found, an error message will be displayed.
 
-https://github.com/user-attachments/assets/ed80e4e7-f6fb-4ef0-aa51-ee214063bf71
+
+![ScreenRecording2024-11-07at7 47 37PM-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/214e9abf-2260-4f33-a93e-7190c7ef57ab)
+
 
 Technologies Used
 
