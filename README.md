@@ -21,17 +21,26 @@ Interactive Search: Allows users to search for any city's weather by entering th
 How to Use
 
 
+![Screenshot 2024-11-07 at 9 15 41 PM](https://github.com/user-attachments/assets/29b8cdf0-e739-4f3c-bbad-7fee58fe908b)
+
+
 
 
 1-Enter the name of the city in the search box.
+
 2-Click the search button.
+
 3-View the weather data including:
     City name
     Temperature (°C)
     Humidity (%)
     Wind speed (km/h)
     Weather icon representing the current condition
+
+    
 --If the city is not found, an error message will be displayed.
+
+![Screenshot 2024-11-07 at 9 15 53 PM](https://github.com/user-attachments/assets/f533411a-e49b-463e-91d8-f84ff2ab4125)
 
 
 ![ScreenRecording2024-11-07at7 47 37PM-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/214e9abf-2260-4f33-a93e-7190c7ef57ab)
