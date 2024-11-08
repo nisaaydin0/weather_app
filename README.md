@@ -8,6 +8,8 @@ The app displays the temperature, humidity, wind speed, and an appropriate weath
 
 Features
 
+![ScreenRecording2024-11-07at7 47 37PM-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/214e9abf-2260-4f33-a93e-7190c7ef57ab)
+
 
 Real-Time Weather Data: Fetches current weather conditions for any city worldwide.
 
@@ -43,7 +45,7 @@ How to Use
 ![Screenshot 2024-11-07 at 9 15 53 PM](https://github.com/user-attachments/assets/f533411a-e49b-463e-91d8-f84ff2ab4125)
 
 
-![ScreenRecording2024-11-07at7 47 37PM-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/214e9abf-2260-4f33-a93e-7190c7ef57ab)
+
 
 
 Technologies Used
