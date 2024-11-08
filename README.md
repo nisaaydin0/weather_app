@@ -5,10 +5,12 @@ Weather App
 A simple weather application that fetches real-time weather data for a specified city using the OpenWeather API.
 The app displays the temperature, humidity, wind speed, and an appropriate weather icon based on current weather conditions.
 
+![ScreenRecording2024-11-07at7 47 37PM-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/214e9abf-2260-4f33-a93e-7190c7ef57ab)
+
 
 Features
 
-![ScreenRecording2024-11-07at7 47 37PM-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/214e9abf-2260-4f33-a93e-7190c7ef57ab)
+
 
 
 Real-Time Weather Data: Fetches current weather conditions for any city worldwide.
